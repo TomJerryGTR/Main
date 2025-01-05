@@ -16,7 +16,7 @@ export UUID=${UUID:-'1a996b5f-f178-4b18-8d7f-ffbd8460c58e'} # 默认随机，去
 export VL_PORT=${VL_PORT:-'8002'} #vles 端口
 export VM_PORT=${VM_PORT:-'8001'} #vmes 端口
 export CF_IP=${CF_IP:-'ip.sub.dns-dynamic.net'}  # cf优选域名或ip
-export SUB_NAME=${SUB_NAME:-'TickHosting'} # 节点名称
+export SUB_NAME=${SUB_NAME:-'Railway'} # 节点名称
 export second_port=${second_port:-''} # 第二端口，部分玩具支持设置第二端口
 
 # 游戏相关设置(去掉#开启游戏，复制启动命令填在下面)，注意开启游戏，不能用rel,tuic,hy2,因为端口会冲突
